@@ -4,6 +4,7 @@
 
 - Comes with Quartz v4 configured and a Github actions workflow for deployment.
 
+
 ## Templates available
 
 ## How to use?
