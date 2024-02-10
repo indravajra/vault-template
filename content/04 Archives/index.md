@@ -5,9 +5,6 @@ created: 2024-02-10T01:38:40.664Z
 tags:
   - meta
 ---
-
-
-
 ## For general purpose notes(of course backlinked to an Area or a source respectively)
 
 

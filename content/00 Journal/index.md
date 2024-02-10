@@ -6,6 +6,27 @@ tags:
   - meta
 ---
 
+## Daily
+
 ```dataview
-TABLE FROM #journal AND "00 Journal"
+TABLE FROM #journals/daily
+```
+
+
+## Weekly
+
+```dataview
+TABLE FROM #journals/weekly
+```
+
+## Monthly
+
+```dataview
+TABLE FROM #journals/monthly
+```
+
+## Yearly
+
+```dataview
+TABLE FROM #journals/yearly
 ```

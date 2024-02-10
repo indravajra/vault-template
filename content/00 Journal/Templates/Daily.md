@@ -4,3 +4,4 @@ tags:
   - journals/daily
 title: '<% tp.file.title %>'
 ---
+## <% tp.file.title %>

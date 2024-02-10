@@ -3,15 +3,15 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "vault-template",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "indravajra.github.io/vault-template",
+    ignorePatterns: ["private", "_bin", "_inbox", ".obsidian"],
     defaultDateType: "created",
     theme: {
       cdnCaching: true,

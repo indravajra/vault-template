@@ -1,10 +1,10 @@
 ---
 created: 2024-02-09T20:26:29.835Z
-id: '20240209152629'
+id: "20240209152629"
 tags:
-  - references/books
+  - books
   - type/litnote
-title: "The Power of Now"
+title: The Power of Now
 ---
 
 Title:: "The Power of Now"

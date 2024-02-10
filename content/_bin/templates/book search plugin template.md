@@ -2,7 +2,7 @@
 created: <% moment(tp.file.creation_date("YYYY-MM-DDTHH:mm:ss.SSSZ")).toISOString() %>
 id: '<% tp.file.creation_date("YYYYMMDDHHmmss") %>'
 tags:
-  - references/books
+  - books
   - type/litnote
 title: "{{title}}"
 ---
