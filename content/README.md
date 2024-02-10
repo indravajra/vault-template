@@ -1,16 +1,22 @@
+---
+aliases: 
+tags: 
+---
+
+# README
 
 
 ## Features
 
 - Comes with Quartz v4 configured and a Github actions workflow for deployment.
 
-## Templates available
+## Templates Available
 
 - VOMIT journal prompts
 - Periodic PARA
 
 
-## How to use?
+## How to Use?
 
 ## Journal
 
@@ -18,4 +24,4 @@
 - Random journal prompts/questions
 - VOMIT journal technique
 
-## Plugins installed
+## Plugins Installed

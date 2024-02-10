@@ -1,11 +1,12 @@
 ---
-id: 20240209203707
-title: "Index"
-created: 2024-02-10T01:37:07.219Z
+aliases: 
+title: '02 Areas'
 tags:
   - meta
+created: 2024-02-10T02:51:11.386Z
 ---
 
+# 02 Areas
 
 ## Areas of Responsibility - Areas of Interest - Areas of Research and so on
 

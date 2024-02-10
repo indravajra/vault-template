@@ -1,6 +1,5 @@
 ---
 title: 'Health'
-category: '2022'
 tags:
   - areas
 aliases:
@@ -8,8 +7,9 @@ aliases:
   - nutrition
   - "sports science"
 created: 2022-11-09T14:11:34.873Z
-updated: 2022-11-09T14:11:34.873Z
 ---
+
+# Health
 
 ## Resources
 

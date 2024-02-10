@@ -1,11 +1,15 @@
 ---
-id: 20240209203731
-title: "Index"
-created: 2024-02-10T01:37:31.295Z
+aliases: 
+title: '03 Resources'
 tags:
   - meta
+created: 2024-02-10T02:51:11.434Z
 ---
-## Sources or Resources such as videos, articles, books, even twitter threads.
+
+
+# 03 Resources
+
+## Sources or Resources such as Videos, Articles, Books, even Twitter Threads.
 
 ## All Articles
 

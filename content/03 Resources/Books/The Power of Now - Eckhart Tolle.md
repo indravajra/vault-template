@@ -1,6 +1,7 @@
 ---
+aliases: 
 created: 2024-02-09T20:26:29.835Z
-id: "20240209152629"
+id: 20240209152629
 tags:
   - books
   - type/litnote

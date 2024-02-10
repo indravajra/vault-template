@@ -7,11 +7,11 @@ tags:
 title: "{{title}}"
 ---
 
-Title:: "{{title}}"
-Author(s):: [[{{author}}]]
-Date:: {{publishDate}}
-Status:: <% await tp.system.suggester(["#read", "#unread", "#unfinished"], ["#read", "#unread", "#unfinished"]) %>
-ISBN:: {{isbn10}} {{isbn13}}
+Title:: "{{title}}"  
+Author(s):: [[{{author}}]]  
+Date:: {{publishDate}}  
+Status:: <% await tp.system.suggester(["#read", "#unread", "#unfinished"], ["#read", "#unread", "#unfinished"]) %>  
+ISBN:: {{isbn10}} {{isbn13}}  
 
 ---
 

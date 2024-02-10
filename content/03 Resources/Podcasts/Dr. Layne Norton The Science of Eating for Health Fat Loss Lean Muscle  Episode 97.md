@@ -1,10 +1,13 @@
 ---
+aliases: 
 title: 'Dr. Layne Norton The Science of Eating for Health Fat Loss Lean Muscle  Episode 97'
 id: 20221109142811
 tags:
   - resources
 created: 2022-11-09T14:28:11.045Z
 ---
+
+# Dr. Layne Norton The Science of Eating for Health Fat Loss Lean Muscle Episode 97
 
 Podcast:: [[Huberman Lab]], #podcasts
 Episode:: Dr. Layne Norton: The Science of Eating for Health, Fat Loss & Lean Muscle | Episode 97

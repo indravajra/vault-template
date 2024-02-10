@@ -1,10 +1,13 @@
 ---
-id: 20240209203537
-title: "Index"
-created: 2024-02-10T01:35:37.298Z
+aliases: 
+title: '01 Projects'
 tags:
   - meta
+created: 2024-02-10T02:51:11.346Z
 ---
+
+# 01 Projects
+
 ```dataview
 TABLE Areas, Duration, Priority, Status FROM #projects AND "01 Projects"
 ```

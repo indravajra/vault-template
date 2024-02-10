@@ -1,8 +1,11 @@
 ---
+aliases: 
 title: index
 tags:
   - meta
 ---
+
+# Index
 
 ## Hotkeys/Workflows
 
@@ -15,7 +18,7 @@ tags:
 |                 | Show Outline(Table of Contents based on headings)           |
 | `Alt + Q`       | Toggle Emoji Toolbar        😇                                                    |
 
-## Some rules to abide by
+## Some Rules to Abide by
 
 - Use tags to organize your notes and make it easier to find specific notes later on. For example, you might use tags to label notes by project or goal, or to indicate the type of information contained in each note.
 - Tags are always plural
@@ -40,7 +43,7 @@ tags:
 3.  R: Resources: Collect and organize the resources you need to complete your projects. This can include things like notes, documents, links, and other materials.
 4.  A: Actions: Identify the specific actions you need to take to complete each project and track your progress. This can help you stay on track and make sure that you are making progress on your projects.
 
-## Plugins used
+## Plugins Used
 
 I installed some quality of life plugins(community).
 
