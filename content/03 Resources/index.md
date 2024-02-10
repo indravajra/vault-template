@@ -1,8 +1,9 @@
 ---
-title: '03 Resources'
+id: 20240209203731
+title: "Index"
+created: 2024-02-10T01:37:31.295Z
 tags:
   - meta
-created: 2022-10-25T10:58:25.809Z
 ---
 
 ## Sources or Resources such as videos, articles, books, even twitter threads.
@@ -30,3 +31,4 @@ TABLE Topics, By as "Author(s)", Link, Status FROM #books
 ```dataview
 TABLE Topics, Link, Status FROM #podcasts
 ```
+
