@@ -1,0 +1,58 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "_inbox",
+      "tag": "#inbox",
+      "pattern": ""
+    },
+    {
+      "folder": "03 Resources/Articles",
+      "tag": "#articles",
+      "pattern": ""
+    },
+    {
+      "folder": "03 Resources/Books",
+      "tag": "#books",
+      "pattern": ""
+    },
+    {
+      "folder": "03 Resources/Podcasts",
+      "tag": "#podcasts",
+      "pattern": ""
+    },
+    {
+      "folder": "03 Resources/Tweets",
+      "tag": "#tweets",
+      "pattern": ""
+    },
+    {
+      "folder": "04 Archives",
+      "tag": "#archives",
+      "pattern": ""
+    },
+    {
+      "folder": "02 Areas",
+      "tag": "#areas",
+      "pattern": ""
+    },
+    {
+      "folder": "03 Resources",
+      "tag": "#resource",
+      "pattern": ""
+    },
+    {
+      "folder": "01 Projects",
+      "tag": "#projects",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "_bin/templates"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "_bin/images",
+  "livePreview": true
+}

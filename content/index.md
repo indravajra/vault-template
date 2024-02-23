@@ -47,19 +47,18 @@ tags:
 
 I installed some quality of life plugins(community).
 
-- [obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) -  Automatically fetch the titles of pasted links
-- [obsidian-smart-typography](https://github.com/mgmeyers/obsidian-smart-typography) -  Converts quotes to curly quotes, dashes to em dashes, and periods to ellipses
-- [advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation    
+- [obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) -  Automatically fetch the titles of pasted links.
+- [obsidian-smart-typography](https://github.com/mgmeyers/obsidian-smart-typography) -  Converts quotes to curly quotes, dashes to em dashes, and periods to ellipses.
 - [obsidian-auto-note-mover](https://github.com/farux/obsidian-auto-note-mover) - Auto Note Mover will automatically move the active notes to their respective folders according to the rules.                    
-- [obsidian-folder-note-plugin](https://github.com/xpgo/obsidian-folder-note-plugin) - Plugin to add description note to a folder for Obsidian.                
-- [obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian. Part of the Obsidian42 family of plugins.
-- [obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) -  Discover the connections of thought in your Obsidian vault
+- [LostPaul/obsidian-folder-notes](https://github.com/LostPaul/obsidian-folder-notes) - Create notes within folders that can be accessed without collapsing the folder, similar to the functionality offered in Notion.
+- [obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian.
+- [obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) -  Discover the connections of thought in your Obsidian vault.
 - [QuickAdd for Obsidian](https://github.com/chhoumann/quickadd) - Quickly add new pages or content to your vault
 - [obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) - is a simple plugin for Obsidian to collect interesting information from your clipboard into your vault       
-- [Obsidian-Table-Generator](https://github.com/quorafind/obsidian-table-generator) - A plugin for generate markdown table quickly like Typora     
 - [PodNotes](https://github.com/chhoumann/PodNotes) -  a plugin for Obsidian that helps the user write notes on podcasts.
 - [obsidian-dataview ](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files.
-- [obsidian-wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Grabs information from Wikipedia for a topic and brings it into Obsidian notes
-- [obsidian-periodic-para](https://github.com/quanru/obsidian-periodic-para)
+- [obsidian-wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Grabs information from Wikipedia for a topic and brings it into Obsidian notes.
+- [obsidian-periodic-para](https://github.com/quanru/obsidian-periodic-para) - plugin to assist in practicing the PARA method with periodic notes.
+- [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore.
 
 ---
