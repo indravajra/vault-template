@@ -39,14 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Resources/Books/The Power of Now - Eckhart Tolle.md",
+                "file": "_bin/templates/new book template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_bin/templates/new book template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_bin/templates/new book template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_bin/templates/new book template.md"
               }
             }
           },
@@ -204,15 +205,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1004da06164859e3",
+  "active": "d23a63462c1fc23f",
   "lastOpenFiles": [
+    "03 Resources/Books/The Power of Now - Eckhart Tolle.md",
+    "index.md",
     "03 Resources/People/Eckhart Tolle.md",
     "03 Resources/People/People.md",
     "03 Resources/Books/Books.md",
     "03 Resources/People",
-    "03 Resources/Books/The Power of Now - Eckhart Tolle.md",
     "03 Resources/Podcasts/Podcasts.md",
-    "index.md",
     "02 Areas/Journaling.md",
     "_bin/templates/new podcast template.md",
     "03 Resources/Podcasts/Dr. Layne Norton The Science of Eating for Health Fat Loss Lean Muscle  Episode 97.md",

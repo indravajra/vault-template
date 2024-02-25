@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_bin/templates/new book template.md",
+      "timestamp": 1708856489796
+    },
+    {
+      "filepath": "03 Resources/Books/The Power of Now - Eckhart Tolle.md",
+      "timestamp": 1708856471066
+    },
+    {
       "filepath": "index.md",
       "timestamp": 1708856070994
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "03 Resources/People/People.md",
       "timestamp": 1708856034745
-    },
-    {
-      "filepath": "03 Resources/Books/Books.md",
-      "timestamp": 1708855986638
-    },
-    {
-      "filepath": "03 Resources/Books/The Power of Now - Eckhart Tolle.md",
-      "timestamp": 1708855928340
     }
   ],
   "starredFileStore": [],
