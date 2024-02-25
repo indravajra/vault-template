@@ -134,6 +134,7 @@ themes
 tidies
 turning
 theme
+tips
 file
 for
 from
@@ -425,6 +426,7 @@ customizing
 consistency
 customization
 clean
+condensed
 date
 database
 does
@@ -749,6 +751,7 @@ synchronization
 share
 shortcut
 somewhere
+sidebar
 moment
 mm
 modified
@@ -955,6 +958,7 @@ Setup
 Studio
 Search
 Settings
+Spiritual
 updated
 untitled
 using
@@ -1211,6 +1215,9 @@ productivity
 personalization
 page
 personalized
+palette
+prominence
+promoted
 aliases
 areas
 and
@@ -1345,6 +1352,7 @@ access
 automatic
 adjusting
 associated
+author
 Areas
 Area
 Additional
@@ -1383,6 +1391,7 @@ Account
 An
 Allows
 Adds
+Awakening
 of
 on
 or
@@ -1522,6 +1531,7 @@ Female
 Features
 Follow
 Facilitates
+February
 general
 github
 generator
@@ -1728,6 +1738,7 @@ buttons
 boards
 backups
 basically
+beginning
 respectively
 resource
 root
@@ -1842,6 +1853,7 @@ Up
 Update
 User
 Upon
+Ulrich
 Picked
 Plugins
 Plugin
@@ -1964,6 +1976,8 @@ Templates
 These
 Telegram
 Tools
+TOL
+Tölle
 is
 index
 it
@@ -2043,6 +2057,7 @@ informative
 insert
 images
 inserted
+internationally
 Hotkeys
 Hotkey
 High
@@ -2058,6 +2073,7 @@ Hitch
 He
 Helps
 Home
+His
 Workflows
 What
 Workout
@@ -2080,6 +2096,7 @@ WOULD
 Warming
 Wars
 Workspace
+Winfrey
 Create
 Contents
 Converts
@@ -2218,6 +2235,7 @@ wand
 workflow
 within
 web
+webinars
 Generate
 Green
 Greens
@@ -2238,6 +2256,9 @@ Get
 Getting
 GitHub
 Garden
+German
+Guide
+Guardians
 Open
 Outline
 Obsidian
@@ -2259,6 +2280,7 @@ Opening
 Optional
 Offers
 Other
+Oprah
 headings
 https
 hotkey
@@ -2480,6 +2502,7 @@ Before
 Backlinked
 Backup
 Build
+Being
 your
 you
 yet
@@ -2524,6 +2547,8 @@ Enhances
 Ensures
 Enables
 Extends
+EK
+Enlightenment
 Link
 Learn
 Layne
@@ -2543,6 +2568,9 @@ Look
 Least
 Launch
 Local
+Leveraging
+Leonard
+Life
 Journal
 Just
 Jagger

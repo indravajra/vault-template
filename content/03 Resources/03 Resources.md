@@ -14,24 +14,24 @@ created: 2024-02-10T02:51:11.434Z
 ## All Articles
 
 ```dataview
-TABLE Topics, Link, Status FROM #articles
+TABLE Areas, Link, Status FROM #articles
 ```
 
 ## All Videos
 
 ```dataview
-TABLE Topics, Link, Status FROM #videos
+TABLE Areas, Link, Status FROM #videos
 ```
 
 ## All Books
 
 ```dataview
-TABLE Topics, By as "Author(s)", Link, Status FROM #books
+TABLE Areas, By as "Author", Link, Status FROM #books
 ```
 
 ## All Podcasts
 
 ```dataview
-TABLE Topics, Link, Status FROM #podcasts
+TABLE Areas, Link, Status FROM #podcasts
 ```
 

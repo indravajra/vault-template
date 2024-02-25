@@ -7,3 +7,7 @@ created: 2024-02-10T02:51:11.538Z
 ---
 
 # Books
+
+```dataview
+TABLE Title, Author FROM #books
+```

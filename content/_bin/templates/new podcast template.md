@@ -21,7 +21,7 @@ Podcast:: <% await tp.system.prompt("Enter name of the podcast") %>
 Episode:: <%* tR += "\"" + result + "\"" %>  
 Link:: <% await tp.system.prompt("Enter URL(link) to the episode") %>  
 Description:: <% await tp.system.prompt("Enter description of the podcast") %>  
-Topics:: <% await tp.system.prompt("Enter [[backlinks]] to topics - comma separated") %>  
+Areas:: <% await tp.system.prompt("Enter [[backlinks]] to Areas - comma separated") %>  
 
 ---
 

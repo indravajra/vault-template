@@ -12,7 +12,7 @@ tags:
 
 Title:: "Building A Second Brain Summary"  
 Link:: https://www.tobysinclair.com/post/building-a-second-brain-summary  
-Topics:: [[PKM]], [[Productivity]]  
+Areas:: [[PKM]], [[Productivity]]  
 Status:: #unread  
 
 ---

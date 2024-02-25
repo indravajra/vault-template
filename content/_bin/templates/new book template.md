@@ -18,8 +18,8 @@ tags:
 ---
 
 Title:: <%* tR += "\"" + result + "\"" %>  
-By:: <% await tp.system.prompt("Enter Author(s)") %>  
-Topics:: <% await tp.system.prompt("Enter [[backlinks]] to topics - comma separated") %>  
+By:: <% await tp.system.prompt("Enter Author") %>  
+Areas:: <% await tp.system.prompt("Enter [[backlinks]] to Areas - comma separated") %>  
 Status:: <% await tp.system.suggester(["#read", "#unread", "#partially-read"], ["#read", "#unread", "#partially-read"]) %>  
 
 ---

@@ -19,7 +19,7 @@ tags:
 
 Title:: <%* tR += "\"" + result + "\"" %>  
 Link:: <% await tp.system.prompt("Enter link to the video") %>  
-Topics:: <% await tp.system.prompt("Enter [[backlinks]] to topics - comma separated") %>  
+Areas:: <% await tp.system.prompt("Enter [[backlinks]] to Areas - comma separated") %>  
 Status:: <% await tp.system.suggester(["#watched", "#unwatched", "#partially-watched"], ["#watched", "#unwatched", "#partially-watched"]) %>  
 
 ---

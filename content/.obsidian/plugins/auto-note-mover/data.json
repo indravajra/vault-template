@@ -14,18 +14,23 @@
       "pattern": ""
     },
     {
-      "folder": "03 Resources/Books",
-      "tag": "#books",
-      "pattern": ""
-    },
-    {
       "folder": "03 Resources/Podcasts",
       "tag": "#podcasts",
       "pattern": ""
     },
     {
-      "folder": "03 Resources/Tweets",
-      "tag": "#tweets",
+      "folder": "03 Resources/Books",
+      "tag": "#books",
+      "pattern": ""
+    },
+    {
+      "folder": "03 Resources/People",
+      "tag": "#people",
+      "pattern": ""
+    },
+    {
+      "folder": "03 Resources",
+      "tag": "#resource",
       "pattern": ""
     },
     {
@@ -36,11 +41,6 @@
     {
       "folder": "02 Areas",
       "tag": "#areas",
-      "pattern": ""
-    },
-    {
-      "folder": "03 Resources",
-      "tag": "#resource",
       "pattern": ""
     },
     {

@@ -73,44 +73,6 @@ vault/
 - The `content` directory is where all your Obsidian notes and resources are organized. It contains various subdirectories for different categories like `Journal`, `Projects`, `Areas`, etc.
 - The `quartz` directory holds the code and configuration files necessary for setting up your digital garden with Quartz, which we'll publish to GitHub Pages later. For more information on Quartz, refer to the [Quartz 4 documentation](https://quartz.jzhao.xyz/).
 
-# Making Notes
-
-## Hotkeys/Workflows
-
-| Hotkey          | What it does                                                |
-| :-------------- | :---------------------------------------------------------- |
-| `Ctrl + N`      | Create a new untitled note in the root of the vault         |
-| `Ctrl + Enter`  | Generate metadata for a newly created note using `Ctrl + N` |
-| `Shift + Enter` | Open link under cursor in a new tab                         |
-| `Alt + M`       | Move the current note to a folder                           |
-|                 | Show Outline(Table of Contents based on headings)           |
-| `Alt + Q`       | Toggle Emoji Toolbar        😇                              |
-| `Alt + T`       | Open template modal                                         |
-
-## Some Rules to Abide by
-
-- Use tags to organize your notes and make it easier to find specific notes later on. For example, you might use tags to label notes by project or goal, or to indicate the type of information contained in each note.
-- Tags are always plural
-- Use only a  few designated amount of tags, they should be clearly defined and no tag should overlap with another in terms of what they mean to preserve ontology of the wiki.
-- Create a separate note for each area of focus and use backlinks to connect the notes together. This will help you see the connections between different notes and make it easier to navigate between them. Perhaps tag an area of focus as an `#areas`.
-
-## PARA
-
-- **Projects**: This folder will contain notes related to specific projects you are working on. For example, if you are working on a book, you might have a folder called "Book Project" where you store all of your notes and ideas related to the book.
-- **Areas**: This folder will contain notes related to broad areas of your life or work. For example, you might have an "Fitness" folder where you store all of your notes and ideas related to staying healthy and fit.
-- **Resources**: This folder will contain notes that serve as references or resources for other notes in your second brain. For example, you might have a folder called "Research" where you store articles, books, and other resources that you want to use as references for your own ideas and projects.
-- **Archives**: This folder will contain notes that are no longer actively used but you want to keep for reference. For example, you might have an "Ideas" folder where you store ideas that you came up with but are no longer working on.
-
-> [!note]
-> When creating a new note, think about how it fits into the overall structure of your second brain. For example, if you have a note about a new workout routine that you want to try, you might store it in the "Fitness" folder in the "Areas" section of your second brain.
-
-## Why PARA
-
-1.  P: Project-Based: Organize your information around specific projects or goals. This can help you focus your efforts and see the big picture.
-2.  A: Areas: Divide your projects into smaller areas of focus. This can help you break down complex tasks into manageable chunks and make progress on each part of a project.
-3.  R: Resources: Collect and organize the resources you need to complete your projects. This can include things like notes, documents, links, and other materials.
-4.  A: Actions: Identify the specific actions you need to take to complete each project and track your progress. This can help you stay on track and make sure that you are making progress on your projects.
-
 ## Setup Backup and Deployment on Github
 
 We’re using Github for the backup of your notes and for deployment/publishing of your digital garden we’re using GitHub Pages:
@@ -184,7 +146,46 @@ Congratulations on setting up your digital garden and integrating it with your O
 **Optional:** For those preferring a graphical interface, consider using Visual Studio Code's Git integration to commit and push changes to your repository. This can simplify the process for users less comfortable with command-line operations.
 
 ---
-## Plugins
+
+# Making Notes
+
+## Hotkeys/Workflows
+
+| Hotkey          | What it does                                                |
+| :-------------- | :---------------------------------------------------------- |
+| `Ctrl + N`      | Create a new untitled note in the root of the vault         |
+| `Ctrl + Enter`  | Generate metadata for a newly created note using `Ctrl + N` |
+| `Shift + Enter` | Open link under cursor in a new tab                         |
+| `Alt + M`       | Move the current note to a folder                           |
+|                 | Show Outline(Table of Contents based on headings)           |
+| `Alt + Q`       | Toggle Emoji Toolbar        😇                              |
+| `Alt + T`       | Open template modal                                         |
+
+## Some Rules to Abide by
+
+- Use tags to organize your notes and make it easier to find specific notes later on. For example, you might use tags to label notes by project or goal, or to indicate the type of information contained in each note.
+- Tags are always plural
+- Use only a  few designated amount of tags, they should be clearly defined and no tag should overlap with another in terms of what they mean to preserve ontology of the wiki.
+- Create a separate note for each area of focus and use backlinks to connect the notes together. This will help you see the connections between different notes and make it easier to navigate between them. Perhaps tag an area of focus as an `#areas`.
+
+## What is PARA
+
+- **Projects**: This folder will contain notes related to specific projects you are working on. For example, if you are working on a book, you might have a folder called "Book Project" where you store all of your notes and ideas related to the book.
+- **Areas**: This folder will contain notes related to broad areas of your life or work. For example, you might have an "Fitness" folder where you store all of your notes and ideas related to staying healthy and fit.
+- **Resources**: This folder will contain notes that serve as references or resources for other notes in your second brain. For example, you might have a folder called "Research" where you store articles, books, and other resources that you want to use as references for your own ideas and projects.
+- **Archives**: This folder will contain notes that are no longer actively used but you want to keep for reference. For example, you might have an "Ideas" folder where you store ideas that you came up with but are no longer working on.
+
+> [!note]
+> When creating a new note, think about how it fits into the overall structure of your second brain. For example, if you have a note about a new workout routine that you want to try, you might store it in the "Fitness" folder in the "Areas" section of your second brain.
+
+## Why Use PARA
+
+1.  P: Project-Based: Organize your information around specific projects or goals. This can help you focus your efforts and see the big picture.
+2.  A: Areas: Divide your projects into smaller areas of focus. This can help you break down complex tasks into manageable chunks and make progress on each part of a project.
+3.  R: Resources: Collect and organize the resources you need to complete your projects. This can include things like notes, documents, links, and other materials.
+4.  A: Actions: Identify the specific actions you need to take to complete each project and track your progress. This can help you stay on track and make sure that you are making progress on your projects.
+
+# Plugins
 
 I installed some quality of life plugins(community).
 
@@ -218,17 +219,17 @@ I installed some quality of life plugins(community).
 | [**Telegram Sync**](https://obsidian.md/plugins?id=telegram-sync)                                  | [soberhacker](https://github.com/soberhacker/obsidian-telegram-sync)                                     | Enables synchronization of notes and content between Obsidian and Telegram, facilitating mobile note-taking and sharing.                                                                     |
 | [**Share Note**](https://obsidian.md/plugins?id=share-note)                                        | [Alan Grainger](https://github.com/alangrainger)                                                         | Provides a simple way to share Obsidian notes with others, including options for public sharing and exporting to different formats.                                                          |
 
-## Templates
+# Templates
 
 
 > [!NOTE] Insert Template Modal 
 > Use the shortcut `Alt + T` to open the Insert Template Modal, you can change this from the `Hotkeys` tab under Obsidian Settings.
 
-### VOMIT Journal Prompt
+## VOMIT Journal Prompt
 
-This template can be accessed from [[VOMIT journal prompt]], it is essentially from the YouTube [The Journaling System that changed my life](https://www.youtube.com/watch?v=U8RQsJ0Q3Mo&pp=ygUXdm9taXQgbWV0aG9kIGpvdXJuYWxpbmc%3D) by [struthless](https://www.youtube.com/@struthless).
+This template can be accessed from [[VOMIT journal prompt]], it is essentially tips condensed from the YouTube video [The Journaling System that changed my life](https://www.youtube.com/watch?v=U8RQsJ0Q3Mo&pp=ygUXdm9taXQgbWV0aG9kIGpvdXJuYWxpbmc%3D) by [struthless](https://www.youtube.com/@struthless).
 
-### Periodic Notes Templates
+## Periodic Notes Templates
 
 The templates for the Periodic Notes can be found under `00 Journal/Templates` folder.
 
@@ -251,7 +252,11 @@ Leveraging the PodNotes plugin, open command palette `ctrl + p` and select `PodN
 
 To add a podcast to the podcast player, simply get the RSS feed link to your podcast and add it from the PodNotes plugin settings.
 
-## Other Tools
+# Misc
+
+Use the [obsidian-wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) to quickly grab an except from the Wikipedia for a search term or using the title of the active note (I have already installed this plugin).
+
+# Other Tools
 
 - [Omnivore is a complete, open source read-it-later solution for people who like reading.](https://omnivore.app/)
 - [NattyNote: Take time-stamped YouTube notes](https://github.com/ahmedelq/NattyNote)

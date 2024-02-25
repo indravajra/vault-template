@@ -9,7 +9,7 @@ title: The Power of Now
 ---
 
 Title:: "The Power of Now"
-Author(s):: [[Eckhart Tolle]]
+Author:: [[Eckhart Tolle]]
 Date:: 2010-10-06
 Status:: #unread
 ISBN:: 1577313119 9781577313113
