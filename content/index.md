@@ -243,6 +243,14 @@ For creating book notes, we’re leveraging the Book Search plugin, the template
 
 I borrowed this from somewhere which I am unable to recall, this template will basically give you three random journal prompts from the list of questions stored in the `vault/content/_bin/wordlist.10000.txt` file, you can’t view this file in Obsidian, use your file manager to access it.
 
+## Podcasts
+
+Leveraging the PodNotes plugin, open command palette `ctrl + p` and select `PodNotes: Create Podcast Note` or by selecting an episode from the Podcast player on the right sidebar.
+
+![[Pasted image 20221109092901.png]]
+
+To add a podcast to the podcast player, simply get the RSS feed link to your podcast and add it from the PodNotes plugin settings.
+
 ## Other Tools
 
 - [Omnivore is a complete, open source read-it-later solution for people who like reading.](https://omnivore.app/)

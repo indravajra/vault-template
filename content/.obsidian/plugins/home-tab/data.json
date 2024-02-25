@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_bin/templates/new podcast template.md",
+      "timestamp": 1708855030230
+    },
+    {
       "filepath": "index.md",
-      "timestamp": 1708854038877
+      "timestamp": 1708854901197
+    },
+    {
+      "filepath": "03 Resources/Podcasts/Podcasts.md",
+      "timestamp": 1708854895097
+    },
+    {
+      "filepath": "03 Resources/Podcasts/Dr. Layne Norton The Science of Eating for Health Fat Loss Lean Muscle  Episode 97.md",
+      "timestamp": 1708854851192
     },
     {
       "filepath": "_bin/templates/new video template.md",
       "timestamp": 1708853999250
-    },
-    {
-      "filepath": "_bin/templates/new podcast template.md",
-      "timestamp": 1708853805667
-    },
-    {
-      "filepath": "_bin/templates/new project template.md",
-      "timestamp": 1708853804839
     }
   ],
   "starredFileStore": [],

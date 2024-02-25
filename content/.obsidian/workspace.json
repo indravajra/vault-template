@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_bin/templates/new podcast template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_bin/templates/new podcast template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_bin/templates/new podcast template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_bin/templates/new podcast template.md"
               }
             }
           },
@@ -178,10 +178,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1004da06164859e3",
+  "active": "1a7c1758e9599872",
   "lastOpenFiles": [
-    "README.md",
     "index.md",
+    "03 Resources/Podcasts/Podcasts.md",
+    "03 Resources/Podcasts/Dr. Layne Norton The Science of Eating for Health Fat Loss Lean Muscle  Episode 97.md",
+    "README.md",
     "_bin/templates/new video template.md",
     "_bin/templates/new podcast template.md",
     "_bin/templates/new project template.md",
@@ -208,7 +210,6 @@
     "03 Resources/Articles/Articles.md",
     "03 Resources/Books/Books.md",
     "03 Resources/Books/The Power of Now - Eckhart Tolle.md",
-    "03 Resources/Podcasts/Podcasts.md",
     "04 Archives/index.md",
     "_inbox/_inbox.md",
     "05 Canvas/05 Canvas.md",
@@ -216,7 +217,6 @@
     "05 Canvas/index.md",
     "01 Projects/index.md",
     "03 Resources/index.md",
-    "04 Archives/04 Archives.md",
     "03 Resources/Videos",
     "_bin/images/The Power of Now - Eckhart Tolle",
     "03 Resources/Books",
