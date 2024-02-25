@@ -3,7 +3,7 @@
   "useMiddleMouse": true,
   "moveThresholdHor": 50,
   "moveThresholdVert": 50,
-  "autoHide": true,
+  "autoHide": false,
   "autoHideRibbon": true,
   "autoMinRootWidth": true,
   "minRootWidth": 300,

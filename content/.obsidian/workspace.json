@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ace1b244eff722b0",
+        "id": "dbec6bec9b6f8fcd",
         "type": "tabs",
         "children": [
           {
-            "id": "dd17084d328e1b5b",
+            "id": "1a7c1758e9599872",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,13 +74,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 416.5
   },
   "right": {
     "id": "7496b67f21e2e34b",
@@ -180,14 +178,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dd17084d328e1b5b",
+  "active": "1004da06164859e3",
   "lastOpenFiles": [
+    "README.md",
+    "index.md",
+    "_bin/templates/new video template.md",
+    "_bin/templates/new podcast template.md",
+    "_bin/templates/new project template.md",
+    "_bin/templates/random journal prompt.md",
+    "_bin/templates/book search plugin template.md",
+    "_bin/images/index/d575cbea9b90f2aba12d5898b4e960db_MD5.jpeg",
+    "_bin/images/Pasted image 20240225043028.png",
     "_bin/images/index/2a94b215b030831ab19816dc7c18f1ba_MD5.jpeg",
     "_bin/images/Pasted image 20240225040809.png",
     "_bin/images/index/1503a223c36bc380d087910f188ab1c5_MD5.jpeg",
     "_bin/images/Pasted image 20240225035634.png",
     "note.md",
-    "index.md",
     "_bin/images/index/aaa655c82a6097736ac7fa1859c45bba_MD5.jpeg",
     "_bin/images/Pasted image 20240224162002.png",
     "_bin/images/index/6d7095727023a17f74b5e2f1c0c733d8_MD5.jpeg",
@@ -211,13 +217,7 @@
     "01 Projects/index.md",
     "03 Resources/index.md",
     "04 Archives/04 Archives.md",
-    "03 Resources/Podcasts/index.md",
-    "03 Resources/Videos/index.md",
-    "03 Resources/Books/index.md",
-    "03 Resources/Articles/index.md",
-    "04 Archives/04 Archives.README.md",
     "03 Resources/Videos",
-    "_bin/images/The Power of Now - Eckhart Tolle/2776ea0fc149c7b8ebb22ce33431c0c8_MD5.jpg",
     "_bin/images/The Power of Now - Eckhart Tolle",
     "03 Resources/Books",
     "05 Canvas",

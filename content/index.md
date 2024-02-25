@@ -218,6 +218,31 @@ I installed some quality of life plugins(community).
 | [**Telegram Sync**](https://obsidian.md/plugins?id=telegram-sync)                                  | [soberhacker](https://github.com/soberhacker/obsidian-telegram-sync)                                     | Enables synchronization of notes and content between Obsidian and Telegram, facilitating mobile note-taking and sharing.                                                                     |
 | [**Share Note**](https://obsidian.md/plugins?id=share-note)                                        | [Alan Grainger](https://github.com/alangrainger)                                                         | Provides a simple way to share Obsidian notes with others, including options for public sharing and exporting to different formats.                                                          |
 
+## Templates
+
+
+> [!NOTE] Insert Template Modal 
+> Use the shortcut `Alt + T` to open the Insert Template Modal, you can change this from the `Hotkeys` tab under Obsidian Settings.
+
+### VOMIT Journal Prompt
+
+This template can be accessed from [[VOMIT journal prompt]], it is essentially from the YouTube [The Journaling System that changed my life](https://www.youtube.com/watch?v=U8RQsJ0Q3Mo&pp=ygUXdm9taXQgbWV0aG9kIGpvdXJuYWxpbmc%3D) by [struthless](https://www.youtube.com/@struthless).
+
+### Periodic Notes Templates
+
+The templates for the Periodic Notes can be found under `00 Journal/Templates` folder.
+
+![[_bin/images/index/d575cbea9b90f2aba12d5898b4e960db_MD5.jpeg]]
+
+
+## Book Notes
+
+For creating book notes, we’re leveraging the Book Search plugin, the template for this can found at [[book search plugin template]].
+
+## Random Journal Prompt
+
+I borrowed this from somewhere which I am unable to recall, this template will basically give you three random journal prompts from the list of questions stored in the `vault/content/_bin/wordlist.10000.txt` file, you can’t view this file in Obsidian, use your file manager to access it.
+
 ## Other Tools
 
 - [Omnivore is a complete, open source read-it-later solution for people who like reading.](https://omnivore.app/)

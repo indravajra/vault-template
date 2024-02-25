@@ -25,7 +25,19 @@
   "recentFilesStore": [
     {
       "filepath": "index.md",
-      "timestamp": 1708809931005
+      "timestamp": 1708854038877
+    },
+    {
+      "filepath": "_bin/templates/new video template.md",
+      "timestamp": 1708853999250
+    },
+    {
+      "filepath": "_bin/templates/new podcast template.md",
+      "timestamp": 1708853805667
+    },
+    {
+      "filepath": "_bin/templates/new project template.md",
+      "timestamp": 1708853804839
     }
   ],
   "starredFileStore": [],
