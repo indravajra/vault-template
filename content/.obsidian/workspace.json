@@ -11,8 +11,13 @@
             "id": "dd17084d328e1b5b",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -74,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "right": {
     "id": "7496b67f21e2e34b",
@@ -90,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "index.md"
               }
             }
           },
@@ -155,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +171,6 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "obsidian42-brat:BRAT": false,
       "periodic-para:Periodic PARA": false,
       "easy-toggle-sidebars:autoHide switcher": false,
@@ -176,7 +182,17 @@
   },
   "active": "dd17084d328e1b5b",
   "lastOpenFiles": [
+    "_bin/images/index/2a94b215b030831ab19816dc7c18f1ba_MD5.jpeg",
+    "_bin/images/Pasted image 20240225040809.png",
+    "_bin/images/index/1503a223c36bc380d087910f188ab1c5_MD5.jpeg",
+    "_bin/images/Pasted image 20240225035634.png",
+    "note.md",
     "index.md",
+    "_bin/images/index/aaa655c82a6097736ac7fa1859c45bba_MD5.jpeg",
+    "_bin/images/Pasted image 20240224162002.png",
+    "_bin/images/index/6d7095727023a17f74b5e2f1c0c733d8_MD5.jpeg",
+    "_bin/images/index",
+    "_bin/images/Pasted image 20240224161832.png",
     "03 Resources/Videos/Videos.md",
     "03 Resources/03 Resources.md",
     "02 Areas/index.md",
@@ -200,7 +216,6 @@
     "03 Resources/Books/index.md",
     "03 Resources/Articles/index.md",
     "04 Archives/04 Archives.README.md",
-    "05 Canvas/05 Canvas.README.md",
     "03 Resources/Videos",
     "_bin/images/The Power of Now - Eckhart Tolle/2776ea0fc149c7b8ebb22ce33431c0c8_MD5.jpg",
     "_bin/images/The Power of Now - Eckhart Tolle",
@@ -210,7 +225,6 @@
     "_inbox",
     "00 Journal/2024/Monthly",
     "00 Journal/2024/Daily/02",
-    "00 Journal/2024/Daily",
-    "00 Journal/2024"
+    "00 Journal/2024/Daily"
   ]
 }

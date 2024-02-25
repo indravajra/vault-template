@@ -1,7 +1,5 @@
 [
   "templater-obsidian",
-  "obsidian-read-it-later",
-  "obsidian-table-generator",
   "auto-note-mover",
   "obsidian42-brat",
   "obsidian42-strange-new-worlds",
@@ -25,5 +23,8 @@
   "homepage",
   "obsidian-linter",
   "folder-notes",
-  "fastimer"
+  "obsidian-minimal-settings",
+  "telegram-sync",
+  "share-my-plugin-list",
+  "share-note"
 ]
