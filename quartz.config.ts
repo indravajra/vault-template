@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "indravajra.github.io/vault-template",
-    ignorePatterns: ["private", "_bin", "_inbox", ".obsidian"],
+    ignorePatterns: ["private", "_bin/templates", "_inbox", ".obsidian"],
     defaultDateType: "created",
     theme: {
       cdnCaching: true,
