@@ -16,7 +16,7 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
-    Component.ArticleTitle(),
+    //Component.ArticleTitle(), // Disabling this as I have configured https://github.com/platers/obsidian-linter to add an H1 at the top of each file 
     Component.ContentMeta(),
     Component.TagList(),
   ],
