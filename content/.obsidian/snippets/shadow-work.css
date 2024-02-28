@@ -1,0 +1,81 @@
+/* 
+Custom Shadow Work Kanban Board Styling
+Inspired by TfTHacker's Eisenhower Matrix Kanban (https://tfthacker.com/eisenhower-matrix-kanban)
+Modified by [Your Name or Alias]
+Date: 2024-02-28
+*/
+
+/* Base Styling for the Kanban Board */
+.kanban-plugin__board > :has(* > div > div[data-hitboxid*="shadow-work"]) {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Three columns for Identified, In Progress, and Integrated */
+  gap: 20px; /* Spacing between cards */
+  padding: 20px; /* Padding around the board */
+}
+
+/* Style for Lane Headers */
+.kanban-plugin__lane-header {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: white;
+  background-color: #333;
+  padding: 8px 16px;
+  border-radius: 10px 10px 0 0;
+}
+
+/* Style for Lanes */
+.kanban-plugin__lane {
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  overflow: hidden; /* Hide overflow to maintain rounded corners */
+}
+
+/* Style for Lane Wrappers */
+.kanban-plugin__lane-wrapper {
+  height: auto; /* Allow lanes to expand to content */
+}
+
+/* Style for Cards */
+.kanban-plugin__card {
+  background-color: white;
+  margin: 10px;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+}
+
+/* Styling for Specific Lanes */
+.kanban-plugin__lane-wrapper:nth-child(1) > div {
+  background-color: rgba(255, 99, 71, 0.2); /* Light red for Identified */
+}
+
+.kanban-plugin__lane-wrapper:nth-child(2) > div {
+  background-color: rgba(30, 144, 255, 0.2); /* Light blue for In Progress */
+}
+
+.kanban-plugin__lane-wrapper:nth-child(3) > div {
+  background-color: rgba(50, 205, 50, 0.2); /* Light green for Integrated */
+}
+
+/* Adjustments for non-mobile screens */
+body:not(.is-mobile) {
+  .kanban-plugin__lane-wrapper {
+    width: 100%; /* Full width lanes for better readability */
+  }
+}
+
+/* Mobile-specific adjustments */
+body.is-mobile {
+  .kanban-plugin__board > :has(* > div > div[data-hitboxid*="shadow-work"]) {
+    grid-template-columns: 1fr; /* Stack lanes vertically on mobile */
+    .kanban-plugin__item-title {
+      line-height: 1.2;
+      max-height: 1.2em;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+  }
+}
+

@@ -1,4 +1,8 @@
 {
   "accentColor": "#8350fb",
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "e-matrix",
+    "shadow-work"
+  ]
 }

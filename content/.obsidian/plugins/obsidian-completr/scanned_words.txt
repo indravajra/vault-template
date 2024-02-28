@@ -528,6 +528,7 @@ displaying
 downloading
 dashboards
 dashboard
+disabled
 YYYY
 YYYYMMDDHHmmss
 YouTube
@@ -752,6 +753,7 @@ share
 shortcut
 somewhere
 sidebar
+shadow
 moment
 mm
 modified
@@ -863,6 +865,7 @@ manage
 macros
 mobile
 manager
+matrix
 MM
 Move
 Mover
@@ -892,6 +895,8 @@ Making
 Modify
 Minimal
 Modal
+Misc
+Matrix
 DDTHH
 Discover
 DominikPieper
@@ -959,6 +964,8 @@ Studio
 Search
 Settings
 Spiritual
+ShadowWork
+Syndrome
 updated
 untitled
 using
@@ -1491,6 +1498,7 @@ Rename
 Repository
 Remote
 Replace
+Rejection
 Interest
 Improved
 InsideTracker
@@ -1514,6 +1522,10 @@ Initialize
 Implements
 Integrates
 Insert
+Identified
+Impulse
+Imposter
+Integrated
 For
 Fat
 Fitness
@@ -1532,6 +1544,7 @@ Features
 Follow
 Facilitates
 February
+Fear
 general
 github
 generator
@@ -1591,6 +1604,7 @@ gold
 grown
 garden
 graphical
+grab
 notes
 note
 new
@@ -1854,6 +1868,7 @@ Update
 User
 Upon
 Ulrich
+Urgent
 Picked
 Plugins
 Plugin
@@ -1895,6 +1910,8 @@ Pages
 Pushing
 Push
 Provides
+Perfectionism
+Progress
 VALUE
 Videos
 VERY
@@ -2146,6 +2163,7 @@ Configure
 Connect
 Completion
 Congratulations
+Control
 will
 with
 what
@@ -2466,6 +2484,7 @@ external
 ensuring
 exporting
 essentially
+except
 Note
 Norton
 Nutrition
@@ -2483,6 +2502,7 @@ Name
 New
 Notion
 Navigate
+Not
 xpgo
 BRAT
 Beta
@@ -2549,6 +2569,9 @@ Enables
 Extends
 EK
 Enlightenment
+EMatrix
+Expressing
+Emotions
 Link
 Learn
 Layne
@@ -2606,5 +2629,6 @@ kid
 kiss
 know
 keyboard
+kanban
 Zero
 ZIP
