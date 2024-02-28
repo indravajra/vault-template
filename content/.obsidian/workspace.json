@@ -34,9 +34,12 @@
             "id": "dd4382f2dc036d2c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "01 Projects/shadow-work.md"
+                "file": "00 Journal/2024/Daily/02/2024-02-28.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -116,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Projects/shadow-work.md",
+                "file": "00 Journal/2024/Daily/02/2024-02-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Projects/shadow-work.md",
+                "file": "00 Journal/2024/Daily/02/2024-02-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Projects/shadow-work.md"
+                "file": "00 Journal/2024/Daily/02/2024-02-28.md"
               }
             }
           },
@@ -181,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,8 +204,13 @@
   },
   "active": "dd4382f2dc036d2c",
   "lastOpenFiles": [
-    "e-matrix.md",
+    "_bin/templates/guided questions prompt.md",
+    "_bin/templates/shadow-work-guided-questions.md",
     "01 Projects/shadow-work.md",
+    "00 Journal/2024/Daily/02/2024-02-28.md",
+    "_bin/shadow-work-guided-questions.md",
+    "_bin/guided questions prompt.md",
+    "e-matrix.md",
     "index.md",
     "_bin/templates/new note template.md",
     "Shadow Work.md",
@@ -235,11 +242,6 @@
     "_bin/images/Pasted image 20240224161832.png",
     "03 Resources/Videos/Videos.md",
     "03 Resources/03 Resources.md",
-    "02 Areas/index.md",
-    "_bin/templates/folder note template.md",
-    "02 Areas/02 Areas.md",
-    "01 Projects/01 Projects.md",
-    "03 Resources/Articles/Articles.md",
     "03 Resources/Videos",
     "_bin/images/The Power of Now - Eckhart Tolle",
     "03 Resources/Books",

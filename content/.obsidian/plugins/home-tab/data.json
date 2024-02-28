@@ -24,24 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "00 Journal/2024/Daily/02/2024-02-28.md",
+      "timestamp": 1709152284837
+    },
+    {
       "filepath": "01 Projects/shadow-work.md",
-      "timestamp": 1709151529019
+      "timestamp": 1709152217633
     },
     {
       "filepath": "e-matrix.md",
-      "timestamp": 1709151528158
-    },
-    {
-      "filepath": "index.md",
-      "timestamp": 1709151439997
-    },
-    {
-      "filepath": "_bin/templates/new note template.md",
-      "timestamp": 1709151355535
-    },
-    {
-      "filepath": "_bin/templates/new book template.md",
-      "timestamp": 1708856489796
+      "timestamp": 1709152216804
     }
   ],
   "starredFileStore": [],
