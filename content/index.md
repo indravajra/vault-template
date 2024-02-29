@@ -242,7 +242,7 @@ For creating book notes, we’re leveraging the Book Search plugin, the template
 
 ## Random Journal Prompt
 
-I borrowed this from somewhere which I am unable to recall, this template will basically give you three random journal prompts from the list of questions stored in the `vault/content/_bin/wordlist.10000.txt` file, you can’t view this file in Obsidian, use your file manager to access it.
+I borrowed this from somewhere which I am unable to recall, this template will basically give you three random journal prompts from the list of questions stored in the `vault/content/_bin/journal-prompts` file.
 
 ## Podcasts
 
@@ -255,6 +255,22 @@ To add a podcast to the podcast player, simply get the RSS feed link to your pod
 # Misc
 
 Use the [obsidian-wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) to quickly grab an except from the Wikipedia for a search term or using the title of the active note (I have already installed this plugin).
+
+**Eisenhower Matrix Usage**
+
+Explore the Eisenhower Matrix within Obsidian, as detailed by TfT Hacker at [Eisenhower Matrix in Obsidian - TfT Hacker](https://tfthacker.com/eisenhower-matrix-kanban).
+
+A Kanban board titled [[e-matrix]] is set up for immediate use as an Eisenhower Matrix to assist with task prioritization. For project-specific prioritization, duplicate the [[e-matrix]] file and rename it to “<project-name> e-matrix.” This approach is beneficial when you need to sort tasks by urgency and importance during project management.
+
+## Shadow Work
+
+Templates for Shadow Work:
+
+- **Dream Journal Template**: Use the [[shadow work dream journal]] for documenting and reflecting on your dreams, an essential part of shadow work.
+- **Shadow Aspect Template**: The [[shadow work shadow aspect]] template aids in delving into individual shadow aspects, including their origins, manifestations, and integration strategies. Insert this template when creating from the Kanban board [[shadow-work]] which offers a comprehensive overview of the shadow aspects you're currently addressing, those you've identified, and those you feel you've successfully integrated.
+- **Shadow Work Qualities and Virtues Template**: With the [[shadow work qualities and virtue]] template, you can explore the dichotomy within shadow qualities, recognizing both their positive and negative aspects and learning to bring them into balance.
+- **Shadow Work Weekly Review Template**: The [[Weekly]] template serves as a weekly reflection tool to examine your interactions, emotional states, and behaviors, pinpointing opportunities for shadow work. This template can be accessed through the Periodic Notes plugin, identifiable by the ⚡ icon on the left sidebar.
+- **Shadow Work Guided Questions**: The [[shadow work guided questions]] provide structured prompts to facilitate deep personal exploration. This Templater template randomly presents three questions at a time, which you can easily insert into your journal using the `Alt + T` hotkey.
 
 # Other Tools
 

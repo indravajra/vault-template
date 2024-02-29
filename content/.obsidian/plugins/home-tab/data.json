@@ -24,24 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "00 Journal/2024/Daily/02/2024-02-28.md",
-      "timestamp": 1709168091821
+      "filepath": "00 Journal/Impulse Control.md",
+      "timestamp": 1709224174296
     },
     {
-      "filepath": "_bin/templates/random journal prompt.md",
-      "timestamp": 1709168070206
+      "filepath": "01 Projects/shadow-work.md",
+      "timestamp": 1709181493213
     },
     {
-      "filepath": "_bin/templates/journal-prompts.md",
-      "timestamp": 1709168066271
+      "filepath": "_bin/templates/shadow work qualities and virtue.md",
+      "timestamp": 1709181466638
     },
     {
-      "filepath": "_bin/templates/guided questions prompt.md",
-      "timestamp": 1709168033351
-    },
-    {
-      "filepath": "_bin/templates/shadow-work-guided-questions.md",
-      "timestamp": 1709168025862
+      "filepath": "index.md",
+      "timestamp": 1709181416625
     }
   ],
   "starredFileStore": [],

@@ -1,6 +1,6 @@
 ---
 id: 20240228151456
-title: "E-Matrix"
+title: "e-matrix"
 created: 2024-02-28T20:14:56.199Z
 kanban-plugin: e-matrix
 disabled rules:

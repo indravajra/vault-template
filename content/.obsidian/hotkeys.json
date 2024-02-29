@@ -104,15 +104,15 @@
       "key": "Q"
     }
   ],
-  "templater-obsidian:_bin/templates/new note template.md": [
+  "obsidian-completr:completr-bypass-enter-key": [],
+  "obsidian-completr:completr-bypass-tab-key": [],
+  "obsidian-completr:completr-blacklist-current-word": [],
+  "templater-obsidian:_bin/templates/insert metadata.md": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "Enter"
     }
-  ],
-  "obsidian-completr:completr-bypass-enter-key": [],
-  "obsidian-completr:completr-bypass-tab-key": [],
-  "obsidian-completr:completr-blacklist-current-word": []
+  ]
 }
