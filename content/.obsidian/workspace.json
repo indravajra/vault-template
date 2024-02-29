@@ -4,34 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d1ef5eba84009eff",
+        "id": "09b53af75932d0ee",
         "type": "tabs",
         "children": [
           {
-            "id": "f2f89200bd619f79",
+            "id": "c530c15fd5351c1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_bin/templates/random journal prompt.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "e0d85747877d72c9",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "e-matrix.md"
-              }
-            }
-          },
-          {
-            "id": "dd4382f2dc036d2c",
+            "id": "ed2fd789d6671b49",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,12 +192,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dd4382f2dc036d2c",
+  "active": "ed2fd789d6671b49",
   "lastOpenFiles": [
+    "_bin/templates/random journal prompt.md",
+    "_bin/templates/journal-prompts.md",
     "_bin/templates/guided questions prompt.md",
     "_bin/templates/shadow-work-guided-questions.md",
-    "01 Projects/shadow-work.md",
     "00 Journal/2024/Daily/02/2024-02-28.md",
+    "01 Projects/shadow-work.md",
     "_bin/shadow-work-guided-questions.md",
     "_bin/guided questions prompt.md",
     "e-matrix.md",
@@ -226,7 +218,6 @@
     "README.md",
     "_bin/templates/new video template.md",
     "_bin/templates/new project template.md",
-    "_bin/templates/random journal prompt.md",
     "_bin/templates/book search plugin template.md",
     "_bin/images/index/d575cbea9b90f2aba12d5898b4e960db_MD5.jpeg",
     "_bin/images/Pasted image 20240225043028.png",
@@ -241,7 +232,6 @@
     "_bin/images/index",
     "_bin/images/Pasted image 20240224161832.png",
     "03 Resources/Videos/Videos.md",
-    "03 Resources/03 Resources.md",
     "03 Resources/Videos",
     "_bin/images/The Power of Now - Eckhart Tolle",
     "03 Resources/Books",

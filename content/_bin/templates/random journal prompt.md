@@ -1,19 +1,21 @@
 <%*
-
-const numberOfPrompts = 3;
-
-const promptsFile = app.metadataCache.getFirstLinkpathDest("journal-prompts","");
-
-const prompts = (await app.vault.read(promptsFile)).split("\n");
+tR = "";
 
 tR += "## Random Questions\n";
 
-for(i=0;i<numberOfPrompts;i++) {
+const numberOfPrompts = 3;
+const selectedIndices = new Set();  // To keep track of selected prompt indices
 
-  n = Math.floor(Math.random()*prompts.length);
+const promptsFile = app.metadataCache.getFirstLinkpathDest("journal-prompts","");
+const promptsContent = await app.vault.read(promptsFile);
+const prompts = promptsContent.split("\n").filter(line => line.trim() !== '');  // Filter out blank lines
 
-  tR += "### " + prompts[n]+"\n";
-
+while (selectedIndices.size < numberOfPrompts && selectedIndices.size < prompts.length) {
+  const n = Math.floor(Math.random() * prompts.length);
+  if (!selectedIndices.has(n)) {
+    tR += "### " + prompts[n] + "\n\n";
+    selectedIndices.add(n);
+  }
 }
-
 %>
+

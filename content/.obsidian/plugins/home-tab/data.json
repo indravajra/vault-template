@@ -25,15 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "00 Journal/2024/Daily/02/2024-02-28.md",
-      "timestamp": 1709152284837
+      "timestamp": 1709168091821
     },
     {
-      "filepath": "01 Projects/shadow-work.md",
-      "timestamp": 1709152217633
+      "filepath": "_bin/templates/random journal prompt.md",
+      "timestamp": 1709168070206
     },
     {
-      "filepath": "e-matrix.md",
-      "timestamp": 1709152216804
+      "filepath": "_bin/templates/journal-prompts.md",
+      "timestamp": 1709168066271
+    },
+    {
+      "filepath": "_bin/templates/guided questions prompt.md",
+      "timestamp": 1709168033351
+    },
+    {
+      "filepath": "_bin/templates/shadow-work-guided-questions.md",
+      "timestamp": 1709168025862
     }
   ],
   "starredFileStore": [],
